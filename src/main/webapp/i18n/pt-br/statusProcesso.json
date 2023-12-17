@@ -1,0 +1,9 @@
+{
+  "emissaoDiplomaApp": {
+    "StatusProcesso": {
+      "null": "",
+      "PENDENTE": "PENDENTE",
+      "CONCLUIDO": "CONCLUIDO"
+    }
+  }
+}

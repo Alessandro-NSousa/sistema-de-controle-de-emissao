@@ -87,10 +87,10 @@ public class EmissaoDiplomaApp {
         log.info(
             CRLFLogConverter.CRLF_SAFE_MARKER,
             "\n----------------------------------------------------------\n\t" +
-            "Application '{}' is running! Access URLs:\n\t" +
+            "Application '{}' em execucao! URLs de acesso:\n\t" +
             "Local: \t\t{}://localhost:{}{}\n\t" +
             "External: \t{}://{}:{}{}\n\t" +
-            "Profile(s): \t{}\n----------------------------------------------------------",
+            "Perfil(s): \t{}\n----------------------------------------------------------",
             env.getProperty("spring.application.name"),
             protocol,
             serverPort,
