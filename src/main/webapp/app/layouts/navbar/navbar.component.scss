@@ -35,6 +35,17 @@ Navbar
   }
 }
 
+/*
+novos ajustes
+*/
+.bg-blue {
+  background-color: #080c84;
+}
+
+.subtitle {
+  font-weight: bold;
+}
+
 /* ==========================================================================
 Logo styles
 ========================================================================== */
@@ -43,6 +54,6 @@ Logo styles
   width: 45px;
   display: inline-block;
   vertical-align: middle;
-  background: url('../../../content/images/logo-jhipster.png') no-repeat center center;
+  background: url('../../../content/images/logo-facomp.png') no-repeat center center;
   background-size: contain;
 }

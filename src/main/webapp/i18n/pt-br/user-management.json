@@ -4,10 +4,10 @@
       "title": "Usuários",
       "refreshListLabel": "Atualizar lista",
       "createLabel": "Adicionar",
-      "createOrEditLabel": "Criar ou editar usuário"
+      "createOrEditLabel": "Cadastrar ou editar usuário"
     },
     "created": "Novo usuário foi criado com o identificador {{ param }}",
-    "updated": "Usuário com o identificador {{ param }} foi atualizado ",
+    "updated": "Usuário atualizado com sucesso ",
     "deleted": "Usuário com o identificador {{ param }} foi excluído",
     "delete": {
       "question": "Você tem certeza que deseja excluir o usuário {{ login }}?"

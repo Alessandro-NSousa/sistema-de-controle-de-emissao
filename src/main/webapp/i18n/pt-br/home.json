@@ -1,6 +1,7 @@
 {
   "home": {
-    "title": "Bem vindo ao Sistema de Emissão de Diploma! ",
+    "title": "SICED ",
+    "subTitle": "Sistema de Controle de Emissão de Diploma",
     "subtitle": "Esta é a página principal",
     "logged": {
       "message": "Olá \"{{username}}\"."
