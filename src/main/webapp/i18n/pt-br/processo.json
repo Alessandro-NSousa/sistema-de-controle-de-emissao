@@ -18,16 +18,16 @@
         "title": "Processo"
       },
       "id": "ID",
-      "statusProcesso": "Status Processo",
-      "matricula": "Matricula",
+      "statusProcesso": "Status do Processo",
+      "matricula": "Matricula do Discente",
       "nome": "Nome",
-      "data": "Data",
-      "numeroDaDefesa": "Numero Da Defesa",
-      "statusSigaa": "Status Sigaa",
-      "numeroSipac": "Numero Sipac",
-      "enviadoBiblioteca": "Enviado Biblioteca",
-      "turma": "Turma",
-      "entregaDiploma": "Entrega Diploma"
+      "data": "Data de Criação",
+      "numeroDaDefesa": "Número Da Defesa",
+      "statusSigaa": "Status no SIGAA",
+      "numeroSipac": "Número do SIPAC",
+      "enviadoBiblioteca": "Enviado para Biblioteca ?",
+      "turma": "Turma do Discente",
+      "entregaDiploma": "Entrega do Diploma"
     }
   }
 }

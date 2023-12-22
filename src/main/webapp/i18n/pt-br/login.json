@@ -1,9 +1,9 @@
 {
   "login": {
-    "title": "Autenticação",
+    "title": "Entrar no Sistema",
     "form": {
       "password": "Senha",
-      "password.placeholder": "Sua senha",
+      "password.placeholder": "Digite sua senha",
       "rememberme": "Manter-me logado",
       "button": "Entrar"
     },
